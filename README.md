@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# myapp_website
-
-=======
-# 網際網路概論
-- 授課老師：蔡芸琤  
+# myapp_website 
 - hw 3  [解說影片](https://youtu.be/cJjc5HpTFEM) | [AItest.js](https://github.com/alisonnnnn88/introduction_to-_the-_internet_alison/blob/main/AItest.js) | [index.html](https://github.com/alisonnnnn88/introduction_to-_the-_internet_alison/blob/main/index.html) | [index.js](https://github.com/alisonnnnn88/introduction_to-_the-_internet_alison/blob/main/index.js)
 <details>
 <summary><strong>HW3 Demo 說明</strong></summary>
@@ -47,4 +42,3 @@
 <img width="1847" src="https://github.com/user-attachments/assets/cc2dc6f1-6aca-42a0-bcb9-f0aad6090c35" />
 
 </details>
->>>>>>> 0cd1ac68d2dea95c2ef2463a35ca82f708b1022c
